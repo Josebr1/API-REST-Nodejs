@@ -1,0 +1,133 @@
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:52 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150\n","timestamp":"2018-01-03T08:27:52.397Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:53 +0000] \"GET /apidoc/main.js HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:53.238Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/vendor/jquery.min.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:54.233Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/vendor/semver.min.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:54.248Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/api_project.js?v=1514968073251 HTTP/1.1\" 200 362\n","timestamp":"2018-01-03T08:27:54.246Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/utils/send_sample_request.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:54.244Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/vendor/lodash.min.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:54.247Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/locales/locale.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:54.253Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/api_data.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:54.253Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/vendor/webfontloader.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:54.260Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/vendor/path-to-regexp/index.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:54.261Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/locales/ca.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:54.267Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/locales/es.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:54.268Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/locales/de.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:54.272Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/locales/fr.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:54.294Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/locales/nl.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:54.309Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/locales/pl.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:54.310Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/locales/pt_br.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:54.313Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/locales/zh.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:54.318Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/locales/ru.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:54.319Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:54 +0000] \"GET /apidoc/locales/zh_cn.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:54.338Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:55 +0000] \"GET /apidoc/vendor/prettify/prettify.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:55.215Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:55 +0000] \"GET /apidoc/vendor/bootstrap.min.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:55.222Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:56 +0000] \"GET /apidoc/vendor/handlebars.min.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:56.222Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:56 +0000] \"GET /apidoc/utils/handlebars_helper.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:56.236Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:27:57 +0000] \"GET /apidoc/vendor/diff_match_patch.min.js?v=1514968073251 HTTP/1.1\" 200 -\n","timestamp":"2018-01-03T08:27:57.218Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:32:30 +0000] \"GET / HTTP/1.1\" 304 -\n","timestamp":"2018-01-03T08:32:30.935Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:36:18 +0000] \"GET / HTTP/1.1\" 304 -\n","timestamp":"2018-01-03T08:36:18.007Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:36:22 +0000] \"GET /users HTTP/1.1\" 404 144\n","timestamp":"2018-01-03T08:36:22.522Z"}
+{"level":"info","message":"[Wed Jan 03 2018 06:37:46 GMT-0200 (-02)] Executing (default): INSERT INTO `Users` (`id`,`name`,`password`,`email`,`created_at`,`updated_at`) VALUES (NULL,'José Antônio','$2a$10$6tZ7YvpHq6tiNrnFubgBHOSwQUZgVW.83wk7tPeyqK6Nm8iewkhPm','jose.silva.br@outlook.com','2018-01-03 08:37:46.120 +00:00','2018-01-03 08:37:46.120 +00:00');","timestamp":"2018-01-03T08:37:46.197Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:37:46 +0000] \"POST /users HTTP/1.1\" 200 261\n","timestamp":"2018-01-03T08:37:46.324Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:40:39 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T08:40:39.479Z"}
+{"level":"info","message":"[Wed Jan 03 2018 06:40:39 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.silva.br@outlook.com' LIMIT 1;","timestamp":"2018-01-03T08:40:39.510Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:40:39 +0000] \"POST /token HTTP/1.1\" 200 114\n","timestamp":"2018-01-03T08:40:39.583Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:40:44 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T08:40:44.853Z"}
+{"level":"info","message":"[Wed Jan 03 2018 06:40:44 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.silva.br@outlook.com' LIMIT 1;","timestamp":"2018-01-03T08:40:44.880Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:40:44 +0000] \"POST /token HTTP/1.1\" 200 114\n","timestamp":"2018-01-03T08:40:44.953Z"}
+{"level":"info","message":"[Wed Jan 03 2018 06:40:46 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.silva.br@outlook.com' LIMIT 1;","timestamp":"2018-01-03T08:40:46.938Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:40:47 +0000] \"POST /token HTTP/1.1\" 200 114\n","timestamp":"2018-01-03T08:40:47.011Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:41:03 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T08:41:03.979Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:41:04 +0000] \"POST /token HTTP/1.1\" 401 12\n","timestamp":"2018-01-03T08:41:04.001Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:41:29 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T08:41:29.877Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:41:29 +0000] \"POST /token HTTP/1.1\" 401 12\n","timestamp":"2018-01-03T08:41:29.887Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:41:32 +0000] \"POST /token HTTP/1.1\" 401 12\n","timestamp":"2018-01-03T08:41:32.206Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:41:56 +0000] \"OPTIONS /users HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T08:41:56.131Z"}
+{"level":"info","message":"[Wed Jan 03 2018 06:41:56 GMT-0200 (-02)] Executing (default): INSERT INTO `Users` (`id`,`name`,`password`,`email`,`created_at`,`updated_at`) VALUES (NULL,'José ','$2a$10$pGYPuwfMST3mHjo9PH6nrOdBxEcLKChbOXDsYHiyHjj1xtiyk7JJW','antonio.silva.code@gmail.com','2018-01-03 08:41:56.144 +00:00','2018-01-03 08:41:56.144 +00:00');","timestamp":"2018-01-03T08:41:56.222Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:41:56 +0000] \"POST /users HTTP/1.1\" 412 33\n","timestamp":"2018-01-03T08:41:56.226Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:42:28 +0000] \"OPTIONS /users HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T08:42:28.687Z"}
+{"level":"info","message":"[Wed Jan 03 2018 06:42:28 GMT-0200 (-02)] Executing (default): INSERT INTO `Users` (`id`,`name`,`password`,`email`,`created_at`,`updated_at`) VALUES (NULL,'José ','$2a$10$jX42FPHPRbafjPCr3zXffuZXCYa0ILjX/PxUBVilHRmQ0etmPBjdu','jose.antonio.silva.code@gmail.com','2018-01-03 08:42:28.698 +00:00','2018-01-03 08:42:28.698 +00:00');","timestamp":"2018-01-03T08:42:28.772Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:42:28 +0000] \"POST /users HTTP/1.1\" 200 261\n","timestamp":"2018-01-03T08:42:28.902Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:42:34 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T08:42:34.766Z"}
+{"level":"info","message":"[Wed Jan 03 2018 06:42:34 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.antonio.silva.code@gmail.com' LIMIT 1;","timestamp":"2018-01-03T08:42:34.780Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:08:42:34 +0000] \"POST /token HTTP/1.1\" 200 114\n","timestamp":"2018-01-03T08:42:34.849Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:13:17 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:13:17.200Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:13:17 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.antonio.silva.code@gmail.com' LIMIT 1;","timestamp":"2018-01-03T09:13:17.226Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:13:17 +0000] \"POST /token HTTP/1.1\" 200 114\n","timestamp":"2018-01-03T09:13:17.300Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:13:39 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:13:39.035Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:13:39 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.antonio.silva.code@gmail.com' LIMIT 1;","timestamp":"2018-01-03T09:13:39.064Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:13:39 +0000] \"POST /token HTTP/1.1\" 200 114\n","timestamp":"2018-01-03T09:13:39.136Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:13:55 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:13:55.907Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:13:55 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.antonio.silva.code@gmail.com' LIMIT 1;","timestamp":"2018-01-03T09:13:55.918Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:13:55 +0000] \"POST /token HTTP/1.1\" 200 114\n","timestamp":"2018-01-03T09:13:55.989Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:14:25 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:14:25.771Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:14:25 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.antonio.silva.code@gmail.com' LIMIT 1;","timestamp":"2018-01-03T09:14:25.790Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:14:25 +0000] \"POST /token HTTP/1.1\" 200 114\n","timestamp":"2018-01-03T09:14:25.860Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:15:58 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:15:58.800Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:15:58 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.antonio.silva.code@gmail.com' LIMIT 1;","timestamp":"2018-01-03T09:15:58.809Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:15:58 +0000] \"POST /token HTTP/1.1\" 200 114\n","timestamp":"2018-01-03T09:15:58.878Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:16:36 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:16:36.792Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:16:59 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:16:59.534Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:17:47 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:17:47.347Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:17:47 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.silva.br@outlook.com' LIMIT 1;","timestamp":"2018-01-03T09:17:47.365Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:17:47 +0000] \"POST /token HTTP/1.1\" 200 114\n","timestamp":"2018-01-03T09:17:47.441Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:17:47 +0000] \"OPTIONS /tasks HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:17:47.460Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:17:47 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 108;","timestamp":"2018-01-03T09:17:47.471Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:17:47 GMT-0200 (-02)] Executing (default): SELECT `id`, `title`, `done`, `created_at`, `updated_at`, `user_id` FROM `Tasks` AS `Tasks` WHERE `Tasks`.`user_id` = 108;","timestamp":"2018-01-03T09:17:47.475Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:17:47 +0000] \"GET /tasks HTTP/1.1\" 200 2\n","timestamp":"2018-01-03T09:17:47.477Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:17:57 +0000] \"OPTIONS /tasks HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:17:57.061Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:17:57 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 108;","timestamp":"2018-01-03T09:17:57.083Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:17:57 GMT-0200 (-02)] Executing (default): INSERT INTO `Tasks` (`id`,`title`,`done`,`created_at`,`updated_at`,`user_id`) VALUES (NULL,'Estudar',0,'2018-01-03 09:17:57.087 +00:00','2018-01-03 09:17:57.087 +00:00',108);","timestamp":"2018-01-03T09:17:57.093Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:17:57 +0000] \"POST /tasks HTTP/1.1\" 200 170\n","timestamp":"2018-01-03T09:17:57.213Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:17:57 +0000] \"OPTIONS /tasks HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:17:57.227Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:17:57 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 108;","timestamp":"2018-01-03T09:17:57.232Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:17:57 GMT-0200 (-02)] Executing (default): SELECT `id`, `title`, `done`, `created_at`, `updated_at`, `user_id` FROM `Tasks` AS `Tasks` WHERE `Tasks`.`user_id` = 108;","timestamp":"2018-01-03T09:17:57.234Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:17:57 +0000] \"GET /tasks HTTP/1.1\" 200 206\n","timestamp":"2018-01-03T09:17:57.236Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:17:59 +0000] \"OPTIONS /user HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:17:59.109Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:17:59 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 108;","timestamp":"2018-01-03T09:17:59.114Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:17:59 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `email` FROM `Users` AS `Users` WHERE `Users`.`id` = 108;","timestamp":"2018-01-03T09:17:59.117Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:17:59 +0000] \"GET /user HTTP/1.1\" 200 89\n","timestamp":"2018-01-03T09:17:59.118Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:18:03 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:18:03.288Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:18:03 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.silva.br@outlook.com' LIMIT 1;","timestamp":"2018-01-03T09:18:03.293Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:18:03 +0000] \"POST /token HTTP/1.1\" 200 114\n","timestamp":"2018-01-03T09:18:03.368Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:18:03 +0000] \"OPTIONS /tasks HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:18:03.386Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:18:03 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 108;","timestamp":"2018-01-03T09:18:03.389Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:18:03 GMT-0200 (-02)] Executing (default): SELECT `id`, `title`, `done`, `created_at`, `updated_at`, `user_id` FROM `Tasks` AS `Tasks` WHERE `Tasks`.`user_id` = 108;","timestamp":"2018-01-03T09:18:03.390Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:18:03 +0000] \"GET /tasks HTTP/1.1\" 304 -\n","timestamp":"2018-01-03T09:18:03.392Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:18:05 +0000] \"OPTIONS /tasks/8 HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:18:05.449Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:18:05 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 108;","timestamp":"2018-01-03T09:18:05.453Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:18:05 GMT-0200 (-02)] Executing (default): UPDATE `Tasks` SET `done`=1,`updated_at`='2018-01-03 09:18:05.455 +00:00' WHERE `id` = '8' AND `user_id` = 108","timestamp":"2018-01-03T09:18:05.458Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:18:05 +0000] \"PUT /tasks/8 HTTP/1.1\" 204 -\n","timestamp":"2018-01-03T09:18:05.571Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:18:05 +0000] \"OPTIONS /tasks HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:18:05.586Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:18:05 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`id` = 108;","timestamp":"2018-01-03T09:18:05.590Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:18:05 GMT-0200 (-02)] Executing (default): SELECT `id`, `title`, `done`, `created_at`, `updated_at`, `user_id` FROM `Tasks` AS `Tasks` WHERE `Tasks`.`user_id` = 108;","timestamp":"2018-01-03T09:18:05.593Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [03/Jan/2018:09:18:05 +0000] \"GET /tasks HTTP/1.1\" 200 205\n","timestamp":"2018-01-03T09:18:05.595Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:18:13 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:18:13.211Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:18:13 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.antonio.silva.code@gmail.com' LIMIT 1;","timestamp":"2018-01-03T09:18:13.245Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:18:13 +0000] \"POST /token HTTP/1.1\" 200 114\n","timestamp":"2018-01-03T09:18:13.320Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:18:17 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.antonio.silva.code@gmail.com' LIMIT 1;","timestamp":"2018-01-03T09:18:17.204Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:18:17 +0000] \"POST /token HTTP/1.1\" 200 114\n","timestamp":"2018-01-03T09:18:17.280Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:18:42 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:18:42.155Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:18:42 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.silva.br@outloook.com' LIMIT 1;","timestamp":"2018-01-03T09:18:42.166Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:18:42 +0000] \"POST /token HTTP/1.1\" 401 12\n","timestamp":"2018-01-03T09:18:42.175Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:18:46 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.silva.br@outloook.com' LIMIT 1;","timestamp":"2018-01-03T09:18:46.489Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:18:46 +0000] \"POST /token HTTP/1.1\" 401 12\n","timestamp":"2018-01-03T09:18:46.491Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:19:01 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:19:01.585Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:19:01 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.silva.br@outloook.com' LIMIT 1;","timestamp":"2018-01-03T09:19:01.600Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:19:01 +0000] \"POST /token HTTP/1.1\" 401 12\n","timestamp":"2018-01-03T09:19:01.608Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:19:10 +0000] \"GET /tasks HTTP/1.1\" 401 -\n","timestamp":"2018-01-03T09:19:10.926Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:19:22 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:19:22.475Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:19:22 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.silva.br@outlook.com' LIMIT 1;","timestamp":"2018-01-03T09:19:22.498Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:19:22 +0000] \"POST /token HTTP/1.1\" 200 114\n","timestamp":"2018-01-03T09:19:22.571Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:20:35 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:20:35.055Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:20:35 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.silva.br@outlook.com' LIMIT 1;","timestamp":"2018-01-03T09:20:35.075Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:20:35 +0000] \"POST /token HTTP/1.1\" 200 114\n","timestamp":"2018-01-03T09:20:35.150Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:20:40 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:20:40.973Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:20:40 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.antonio.silva.code@gmail.com' LIMIT 1;","timestamp":"2018-01-03T09:20:40.977Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:20:41 +0000] \"POST /token HTTP/1.1\" 200 114\n","timestamp":"2018-01-03T09:20:41.049Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:20:48 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:20:48.399Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:20:48 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.antonio.silva.code@gmail.com' LIMIT 1;","timestamp":"2018-01-03T09:20:48.403Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:20:48 +0000] \"POST /token HTTP/1.1\" 200 114\n","timestamp":"2018-01-03T09:20:48.478Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:20:54 +0000] \"OPTIONS /token HTTP/1.1\" 204 0\n","timestamp":"2018-01-03T09:20:54.380Z"}
+{"level":"info","message":"[Wed Jan 03 2018 07:20:54 GMT-0200 (-02)] Executing (default): SELECT `id`, `name`, `password`, `email`, `created_at`, `updated_at` FROM `Users` AS `Users` WHERE `Users`.`email` = 'jose.antonio.silva.code@gmail.com' LIMIT 1;","timestamp":"2018-01-03T09:20:54.386Z"}
+{"level":"info","message":"::1 - - [03/Jan/2018:09:20:54 +0000] \"POST /token HTTP/1.1\" 200 114\n","timestamp":"2018-01-03T09:20:54.458Z"}
